@@ -32,7 +32,7 @@ Feel free to open an issue or submit a pull request. Contributions are always we
 ## 📈 Progress Tracker
 | 📊 Status   | 🟢 Easy | 🟡 Medium |
 |-------------|---------|-----------|
-| Solved So Far | **4/150** ✅ | **3/150** ⚡ |
+| Solved So Far | **5/150** ✅ | **3/150** ⚡ |
 
 ## 📚 Disclaimer
 These are **my personal solutions**—they might not always be the most optimal, but they work! 🌟
