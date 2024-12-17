@@ -41,7 +41,7 @@ Feel free to open an issue or submit a pull request. Contributions are always we
 
 | 📊 Status     | 🟢 Easy      | 🟡 Medium    |
 | ------------- | ------------ | ------------ |
-| Solved So Far | **5/150** ✅ | **6/150** ⚡ |
+| Solved So Far | **5/150** ✅ | **7/150** ⚡ |
 
 ## 📚 Disclaimer
 
