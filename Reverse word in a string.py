@@ -1,29 +1,19 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
-        answer=[]
-        flag = False
-        dump=''
+        arr=[]
+        word=''
+        ans=''
         for i in range(len(s)):
-            if s[i] != ' ':
-                dump+=s[i]
-                flag = True
-            elif s[i] == ' ' and flag == True:
-                answer.append(dump)
-                dump=''
-                flag = False
+            if s[i] != " ":
+                word += s[i]
+            else:
+                if len(word) > 0:
+                    arr.append(word)
+                    word=''
+        if word: arr.append(word)
+        for i in range(len(arr)-1,-1,-1):
+            ans += arr[i]
+            if i != 0:
+                ans += " "
+        return ans
                 
-        if dump != '':
-            answer.append(dump)
-            
-        
-        answer.reverse()
-        dump=''
-        for i in range(len(answer)):
-            
-            dump+=answer[i]
-            dump+=' '
-            
-        
-        return dump[:-1]
-            
-        
