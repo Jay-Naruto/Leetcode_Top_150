@@ -1,14 +1,14 @@
-# 🚀 LeetCode 150 Challenge: The Journey Begins! 🌟
+# 🚀 LeetCode Challenge: The Journey Begins! 🌟
 
 ## 🧩 What's Inside?
 
-Welcome to the **LeetCode Top 150 Challenge**! 🎯 This repository contains **my solutions** to **150 LeetCode questions**, with more being added as I continue my problem-solving journey. 💻✨
+Welcome to the **LeetCode Top Challenge**! 🎯 This repository contains **my solutions** to **LeetCode questions**, with more being added as I continue my problem-solving journey. 💻✨
 
 ## 📋 Features
 
 - 💡 **Includes questions of Easy & Medium difficulty**.
 - 🧠 **Written in my own style**: Some solutions are optimized, others could be improved. Suggestions are welcome! 🤝
-- 🔄 **Work in Progress**: The repo is growing question by question until we hit the 150 mark! 🏆
+- 🔄 **Work in Progress**: The repo is growing question by question until we hit the 100 mark! 🏆
 
 ## 🛠️ Languages Used
 
@@ -28,7 +28,7 @@ This is my personal playground to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/leetcode-150-questions.git
+   git clone https://github.com/Jay-Naruto/leetcode-150-questions.git
    ```
 2. Run the code and explore!
 
