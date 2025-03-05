@@ -39,8 +39,8 @@ Feel free to open an issue or submit a pull request. Contributions are always we
 
 ## 📈 Progress Tracker
 
-| 📊 Status     | 🟢 Easy      | 🟡 Medium    |
-| ------------- | ------------ | ------------ |
+| 📊 Status     | 🟢 Easy   | 🟡 Medium |
+| ------------- | --------- | --------- |
 | Solved So Far | **37** ✅ | **62** ⚡ |
 
 ## 📚 Disclaimer
